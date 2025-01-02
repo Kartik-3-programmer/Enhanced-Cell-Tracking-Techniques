@@ -14,7 +14,7 @@ HRNet architecture
 ![The-architecture-of-the-used-high-resolution-network-HRNet-for-singing-voice-separation](https://github.com/user-attachments/assets/ee91fd7e-fb64-4223-ab65-35346b2611ac)
 
 UNet3+ architecture
-![download](https://github.com/user-attachments/assets/6b1f16d9-bc88-44ca-91b8-bd10eb381379)
+![download](https://github.com/user-attachments/assets/8b00d9d8-7f39-4e60-a237-1a9577cbe6f0)
 
 # Training
 Each model undergoes the through 100 epochs but with early stopping parameter and binary cross entropy loss function hence giving the best values for segmentation followed by the cell tracking methods.
