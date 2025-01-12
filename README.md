@@ -26,8 +26,10 @@ The segementation files include the following:
 * UNet segmentation.ipynb
 * UNet++ and HRNet segmentation.ipynb
 * UNet3+ and SegNet segmentation.ipynb
+
 The tracking files include the following:
 * HRNet and UNet3+ tracking algorithms.ipynb
 * SegNet tracking algorithms.ipynb
+
 Execute all the segmentation notebooks with the methods along with the location of the dataset and its position in local desktop or Google Colab.
 Then run the HRNet and UNet3+ tracking algorithms.ipynb and the SegNet tracking algorithms.ipynb files for the same dataset location.
