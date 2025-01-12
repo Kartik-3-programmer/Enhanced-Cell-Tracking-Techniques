@@ -23,11 +23,11 @@ Each model undergoes the through 100 epochs but with early stopping parameter an
 
 # Execution
 The segementation files include the following:
-i. UNet segmentation.ipynb
-ii. UNet++ and HRNet segmentation.ipynb
-iii. UNet3+ and SegNet segmentation.ipynb
+* UNet segmentation.ipynb
+* UNet++ and HRNet segmentation.ipynb
+* UNet3+ and SegNet segmentation.ipynb
 The tracking files include the following:
-i. HRNet and UNet3+ tracking algorithms.ipynb
-ii. SegNet tracking algorithms.ipynb
+* HRNet and UNet3+ tracking algorithms.ipynb
+* SegNet tracking algorithms.ipynb
 Execute all the segmentation notebooks with the methods along with the location of the dataset and its position in local desktop or Google Colab.
 Then run the HRNet and UNet3+ tracking algorithms.ipynb and the SegNet tracking algorithms.ipynb files for the same dataset location.
